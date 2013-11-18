@@ -3,7 +3,7 @@ Verifying OpenSSL using Python
 
 This can be run in Ubuntu or linux based machines as follows :
 
-python Ossl_Python.py /etc/ssl/certs/ca-certificates.crt www.google.com
+python OpenSSL_Test.py /etc/ssl/certs/ca-certificates.crt www.google.com
 
 ==============================
 
